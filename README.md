@@ -11,6 +11,6 @@ Click "Fast Forward" or "Rewind" button to fast-forward or rewind the music for 
 
 The "Play / Pause", "Fast Forward" and "Rewind" button can be operated by pressing the "Space", "Right" and "Left" on the keyboard as well.
 
-The playing progess is displayed on the Progess Scale. Users can drag the Scale to relocate the playing progress.
+The playing progress is displayed on the Progress Scale. Users can drag the Scale to relocate the playing progress.
 
 The playing volume is indicated on the Volume Scale. Apart from dragging the Scale, users may also turn up or down the volume by pressing the "Up" or "Down" on the leyboard.
